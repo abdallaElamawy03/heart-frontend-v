@@ -1,5 +1,5 @@
 import axios from 'axios';
-const BASE_URL = 'http://heart-backend-v2.vercel.app';
+const BASE_URL = 'https://heart-backend-v2.vercel.app';
 
 export default axios.create({
     baseURL: BASE_URL
